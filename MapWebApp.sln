@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapWebApp.Server", "MapWebApp.Server\MapWebApp.Server.csproj", "{CE9EB991-959F-4473-8B0C-59B15CA054FF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mapwebapp.client", "mapwebapp.client\mapwebapp.client.esproj", "{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9EB991-959F-4473-8B0C-59B15CA054FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9EB991-959F-4473-8B0C-59B15CA054FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9EB991-959F-4473-8B0C-59B15CA054FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9EB991-959F-4473-8B0C-59B15CA054FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E0352F-42C2-47D5-ADE1-8734E9C91D4E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

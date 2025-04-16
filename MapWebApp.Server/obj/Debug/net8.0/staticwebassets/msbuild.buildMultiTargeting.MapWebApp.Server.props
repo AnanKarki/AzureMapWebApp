@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MapWebApp.Server.props" />
+</Project>

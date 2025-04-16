@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "bXKMvp7jOQ4cEpPL2HCEFpSprMRDa7HIvMJ6eW98JZo=",
+  "Source": "MapWebApp.Server",
+  "BasePath": "_content/MapWebApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\anank\\source\\repos\\MapWebApp\\mapwebapp.client\\mapwebapp.client.esproj",
+      "Version": 2,
+      "Source": "mapwebapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
